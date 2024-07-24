@@ -2,47 +2,30 @@
 
 # 🗂 Presentation
 ## 1. Data
-- Mixed-type Wafer Defect Datasets (Kaggle) (URL: https://www.kaggle.com/datasets/co1d7era/mixedtype-wafer-defect-datasets)
-* 연구에서 사용할 단일과 이중 혼합 유형의 결함 이미지 데이터
-* 연구에서 사용할 단일과 이중 혼합 유형의 결함 이미지 데이터 
-
-- Mixed-type Wafer Defect Datasets (Kaggle)
-(URL: https://www.kaggle.com/datasets/co1d7era/mixedtype-wafer-defect-datasets)
+**&ndash; Mixed-type Wafer Defect Datasets (Kaggle) (URL: https://www.kaggle.com/datasets/co1d7era/mixedtype-wafer-defect-datasets)**
 
 * 연구에서 사용할 단일과 이중 혼합 유형의 결함 이미지 데이터
 ![image](https://github.com/user-attachments/assets/bba3ff88-b11a-46cc-8813-20c1a31dcd4c)
-
-
-* 연구에서 사용할 단일과 이중 혼합 유형의 결함 이미지 데이터
-![image](https://github.com/user-attachments/assets/007e2fac-19d3-43ef-b32a-02ed46f614c8)
-
+><br/>
+* 사용할 데이터셋의 구조와 개수
+![image](https://github.com/user-attachments/assets/ef8c52f4-4924-4ee8-acae-ff95454a4a13)
 
 
 <br/><br/>
 ## 2. Problem Definition
 - 연구동기
-![그림2](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/263efd29-44fa-4133-be35-2c3102746fa1)
+![image](https://github.com/user-attachments/assets/c7305bb2-0621-40fc-bc3d-41bd9ca6aa78)
+
 
 <br/><br/>
 ## 3. Modeling
 - AI 모델 구현 로드맵
-![image](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/b790f4db-db7f-46ac-b2f4-7a73f2e42b43)
+![슬라이드7](https://github.com/user-attachments/assets/2efc3049-f7e8-4c9f-92ff-2b42f964e08a)
+![슬라이드10](https://github.com/user-attachments/assets/bbe4bc64-6fb3-4877-8887-3b1998ad12de)
 
 <br/>
 
-- 사용 알고리즘
-  
-(1) Linear Models (선형모델) – 'Linear Regression', 'SVR'
-
-(2) Neural Networks (인공신경망) – 'Neural Network', 'MLPRegression'
-
-(3) Ensemble Models (앙상블) – 'Random Forest', 'Neural Network', 'Voting', 'Stacking'
-
-(4) Gradient Boosting (그래디언트 부스팅) – 'LGBM Regression', 'Gradient Boosting Regression'
-
-(5) RNN – 'LSTM'
-
-(6) KNN - 'KNN'
+- 사용 알고리즘: `Vision Transformer`, `KNN`
 
 <br/><br/>
 ## 4. Data Analysis And Results 
