@@ -1,4 +1,6 @@
 # 2024-1_Capstone-Design
+**- 주제: `Vision Transformer와 유사도 기반 반도체 혼합결함유형 예측`**
+<br/>
 
 # 🗂 Presentation
 ## 1. Data
