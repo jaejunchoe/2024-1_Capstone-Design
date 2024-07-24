@@ -24,6 +24,7 @@
 - AI 모델 구현 로드맵
 ![슬라이드7](https://github.com/user-attachments/assets/2efc3049-f7e8-4c9f-92ff-2b42f964e08a)
 ![슬라이드10](https://github.com/user-attachments/assets/bbe4bc64-6fb3-4877-8887-3b1998ad12de)
+![image](https://github.com/user-attachments/assets/0c72ea50-13c1-4d5c-ace7-44cff7380c0f)
 
 <br/>
 
