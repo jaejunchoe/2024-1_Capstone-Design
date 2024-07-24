@@ -33,13 +33,14 @@
 <br/><br/>
 ## 4. Data Analysis And Results 
 
-     (1) 결함 예측 결과
-     ![image](https://github.com/user-attachments/assets/c78011fe-b602-4396-af2a-7008e7d2100b)
+   (1) 결함 예측 결과
+![image](https://github.com/user-attachments/assets/4d069e6d-abe7-407e-bebb-16a4098ffe7f)
 
 
 
-     (2) 선행연구와의 비교
-     ![image](https://github.com/user-attachments/assets/57c4a5be-9563-42bb-a79f-94ccde4042f3)
+   (2) 선행연구와의 비교
+![image](https://github.com/user-attachments/assets/1da50cb6-360a-4eff-acdd-9004c7a57191)
+
 
 <br/><br/>
 ## 5. Conclusion & Comment
