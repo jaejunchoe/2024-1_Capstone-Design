@@ -1,29 +1,4 @@
 # 2024-1_Capstone-Design
-* `참여유형: 서비스 분야`
-<img src="https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/73e027be-996b-4158-a8f6-0156e6bbca57" width="300" height="400">
-
-<br/><br/>
-
-# 🏆 Prize
-<img src="https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/1b1364d4-ff4b-4278-9c78-8d7f293cbb80" width="500" height="300">
-<img src="https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/2cdc6007-f802-46a1-924f-14b0b858d525" width="500" height="300">
-
-<br/><br/>
-
-# ✨ Team K2R1
-1. 구성원
-* 팀장: 전민욱 - 국립금오공과대학교 산업경영공학전공 3학년
-* 팀원: 최재준 - 국립금오공과대학교 산업경영공학전공 3학년 
-* 팀원: Salakhov Tagir - 국립금오공과대학교 산업경영공학전공 3학년
-
-<br/>
-
-2. 주 임무
-* 전민욱 - 데이터 분석, 서비스 기획, AI 설계
-* 최재준 - 서비스 기획, 데이터 분석
-* Salakhov Tagir - AI 설계, 데이터 분석
-
-<br/><br/>
 
 # 🗂 Presentation
 ## 1. Data
