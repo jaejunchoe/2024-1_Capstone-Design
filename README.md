@@ -2,13 +2,25 @@
 
 # 🗂 Presentation
 ## 1. Data
-1. 구미 에너지자급자족사업 참여기업 A사 2023.07.26 시간별 에너지 사용량 데이터
-2. 한국전력공사 데이터 - 2020~2022년 데이터톤 DB(전력사용량, 태양광 발전) + 전력사용량은 1시간 간격, 태양광 발전은 15분 간격
-3. 수요 및 설문조사 데이터 - 2023년 구미산업단지공단 스마트에너지클러스터 기업 설문조사 및 수요조사 
+- Mixed-type Wafer Defect Datasets (Kaggle) (URL: https://www.kaggle.com/datasets/co1d7era/mixedtype-wafer-defect-datasets)
+* 연구에서 사용할 단일과 이중 혼합 유형의 결함 이미지 데이터
+* 연구에서 사용할 단일과 이중 혼합 유형의 결함 이미지 데이터 
+
+- Mixed-type Wafer Defect Datasets (Kaggle)
+(URL: https://www.kaggle.com/datasets/co1d7era/mixedtype-wafer-defect-datasets)
+
+* 연구에서 사용할 단일과 이중 혼합 유형의 결함 이미지 데이터
+![image](https://github.com/user-attachments/assets/bba3ff88-b11a-46cc-8813-20c1a31dcd4c)
+
+
+* 연구에서 사용할 단일과 이중 혼합 유형의 결함 이미지 데이터
+![image](https://github.com/user-attachments/assets/007e2fac-19d3-43ef-b32a-02ed46f614c8)
+
+
 
 <br/><br/>
-## 2. Problem Definition & Service Design
-- '스마트에너지클러스터 기업 설문조사 및 수요조사'에 대한 분석
+## 2. Problem Definition
+- 연구동기
 ![그림2](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/263efd29-44fa-4133-be35-2c3102746fa1)
 
 <br/><br/>
