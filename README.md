@@ -15,13 +15,13 @@
 
 <br/><br/>
 ## 2. Problem Definition
-- 연구동기
+&ndash; 연구동기
 ![image](https://github.com/user-attachments/assets/c7305bb2-0621-40fc-bc3d-41bd9ca6aa78)
 
 
 <br/><br/>
 ## 3. Modeling
-- AI 모델 구현 로드맵
+&ndash; AI 모델 구현 로드맵
 ![슬라이드7](https://github.com/user-attachments/assets/2efc3049-f7e8-4c9f-92ff-2b42f964e08a)
 ![슬라이드10](https://github.com/user-attachments/assets/bbe4bc64-6fb3-4877-8887-3b1998ad12de)
 ![image](https://github.com/user-attachments/assets/0c72ea50-13c1-4d5c-ace7-44cff7380c0f)
@@ -32,7 +32,6 @@
 
 <br/><br/>
 ## 4. Data Analysis And Results 
-- Clustering & AI Model 학습 결과
 
      (1) 결함 예측 결과
      ![image](https://github.com/user-attachments/assets/c78011fe-b602-4396-af2a-7008e7d2100b)
