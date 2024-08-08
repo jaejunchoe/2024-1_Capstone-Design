@@ -4,7 +4,7 @@
 
 # 🗂 Presentation
 ## 1. Data
-**&ndash; Mixed-type Wafer Defect Datasets (Kaggle) (URL: https://www.kaggle.com/datasets/co1d7era/mixedtype-wafer-defect-datasets)**
+**&ndash; Mixed-type Wafer Defect Datasets
 
 * 연구에서 사용할 단일과 이중 혼합 유형의 결함 이미지 데이터
 ![image](https://github.com/user-attachments/assets/bba3ff88-b11a-46cc-8813-20c1a31dcd4c)
