@@ -32,12 +32,19 @@
 <br/><br/>
 ## 4. Data Analysis And Results 
 
-   (1) 결함 예측 결과
+   (1) Training $ Validation, Embedding(2D, 3D)
+![슬라이드30](https://github.com/user-attachments/assets/25481ddb-2c8a-4e97-aa4e-d6491154db07)
+![슬라이드31](https://github.com/user-attachments/assets/9c00eb10-ff40-41bd-ac3f-278d032047fa)
+![슬라이드32](https://github.com/user-attachments/assets/2213bf69-ec94-47d7-a6ca-9644002bf59f)
+
+
+
+   (2) 결함 예측 결과
 ![image](https://github.com/user-attachments/assets/4d069e6d-abe7-407e-bebb-16a4098ffe7f)
 
 
 
-   (2) 선행연구와의 비교
+   (3) 선행연구와의 비교
 ![image](https://github.com/user-attachments/assets/1da50cb6-360a-4eff-acdd-9004c7a57191)
 
 
